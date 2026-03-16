@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/STHEPNIGHT/CapCut-Pro-Advanced/raw/main/logo.png" width="320" alt="Softmaster Logo">
+<img src="https://github.com/STHEPNIGHT/CapCut-Pro-Advanced-Edition/blob/main/logo.png" width="320" alt="Softmaster Logo">
 
 # CapCut Pro Advanced
 
